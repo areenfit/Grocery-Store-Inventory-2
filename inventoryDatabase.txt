@@ -1,0 +1,3 @@
+bread - in stock: 12, price: 9.99, expiration date: 3-2-2023
+al-jebrini milk - in stock: 2, price: 2.0, expiration date: 3-2-2023
+eggs - in stock: 3, price: 2.5, expiration date: 3-2-2023
